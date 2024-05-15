@@ -6,8 +6,8 @@ hero:
   name: "stuNetCtl"
   text: "基于pikapython的开源的可编程控制器"
   tagline: 工业物联网，自动化系统的解释性PLC方案
-  image: http://img.senyblog.com/img/stu_bk.svg
-  # image: https://gitee.com/SenySunny/picture/raw/master/img/stu_bk.svg
+  # image: http://img.senyblog.com/img/stu_bk.svg
+  image: https://gitee.com/SenySunny/picture/raw/master/img/stu_bk.svg
   actions:
     - theme: brand
       text: stuNetCtl是什么
